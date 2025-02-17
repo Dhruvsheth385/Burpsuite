@@ -2,7 +2,7 @@
 # Burp Suite
 
 ## Overview
-Burp Suite is a widely used penetration testing framework developed by PortSwigger for security professionals and ethical hackers. Written in Java, it acts as a proxy between the browser and the target server, enabling the interception, analysis, and modification of HTTP/HTTPS traffic. It helps identify security vulnerabilities such as **SQL Injection**, **Cross-Site Scripting (XSS)**, and **Broken Authentication** through automated and manual testing.
+Burp Suite is a widely used penetration testing framework developed by PortSwigger for security professionals and ethical hackers. Written in Java, it acts as a proxy between the browser and the target server, enabling the interception, analysis, and modification of HTTP/HTTPS traffic. Automated and manual testing helps identify security vulnerabilities such as **SQL Injection**, **Cross-Site Scripting (XSS)**, and **Broken Authentication**.
 
 ## Features
 - **Proxy** – Intercept and modify HTTP/HTTPS requests and responses.
@@ -21,12 +21,12 @@ Burp Suite is an essential tool for penetration testers, ethical hackers, and se
 Follow these steps to install Burp Suite:
 
 ### **Windows**
-1. Download the installer from the [ Burp Suite Website](https://portswigger.net/burp/communitydownload)(#).
+1. Download the installer from the [ Burp Suite Website](https://portswigger.net/burp/communitydownload).
 2. Run the `.exe` file and follow the installation wizard.
 3. Launch Burp Suite and configure your proxy settings.
 
 ### **Linux**
-1. Download the `.sh` installer from the [ Burp Suite Website](https://portswigger.net/burp/communitydownload)(#).
+1. Download the `.sh` installer from the [ Burp Suite Website](https://portswigger.net/burp/communitydownload).
 2. Open a terminal and navigate to the downloaded file's location.
 3. Run the command:
    ```bash
