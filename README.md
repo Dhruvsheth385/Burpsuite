@@ -21,12 +21,12 @@ Burp Suite is an essential tool for penetration testers, ethical hackers, and se
 Follow these steps to install Burp Suite:
 
 ### **Windows**
-1. Download the installer from the [[official Burp Suite website]](https://portswigger.net/burp/communitydownload)(#).
+1. Download the installer from the [ Burp Suite Website](https://portswigger.net/burp/communitydownload)(#).
 2. Run the `.exe` file and follow the installation wizard.
 3. Launch Burp Suite and configure your proxy settings.
 
 ### **Linux**
-1. Download the `.sh` installer from the [[official Burp Suite website]](https://portswigger.net/burp/communitydownload)(#).
+1. Download the `.sh` installer from the [ Burp Suite Website](https://portswigger.net/burp/communitydownload)(#).
 2. Open a terminal and navigate to the downloaded file's location.
 3. Run the command:
    ```bash
